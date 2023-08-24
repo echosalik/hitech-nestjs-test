@@ -1,5 +1,5 @@
 # NestJS Test Response
-## by Salik Sadruddin Merani <salik.merani@gmail.com>
+## by Salik Sadruddin Merani
 
 ### Versions
 **NodeJS:** 18<br>
